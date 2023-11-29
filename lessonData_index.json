@@ -58,61 +58,13 @@
  {
   "year": "2020-2021",
   "semester": "2",
-  "updated_at": "2021-02-24",
+  "updated_at": "2021-02-21",
   "first_day": "2021-02-22"
  },
  {
-  "year": "2020-2021",
-  "semester": "3",
-  "updated_at": "2021-02-24",
-  "first_day": "2021-06-28"
- },
- {
-  "year": "2021-2022",
-  "semester": "1",
-  "updated_at": "2022-05-31",
-  "first_day": "2021-09-13"
- },
- {
-  "year": "2021-2022",
-  "semester": "2",
-  "updated_at": "2022-09-12",
-  "first_day": "2022-02-14"
- },
- {
-  "year": "2021-2022",
-  "semester": "3",
-  "updated_at": "2022-09-12",
-  "first_day": "2022-06-20"
- },
- {
-  "year": "2022-2023",
-  "semester": "1",
-  "updated_at": "2022-12-10",
-  "first_day": "2022-09-12"
- },
- {
-  "year": "2022-2023",
-  "semester": "2",
-  "updated_at": "2023-04-28",
-  "first_day": "2023-02-13"
- },
- {
-  "year": "2022-2023",
-  "semester": "3",
-  "updated_at": "2023-06-16",
-  "first_day": "2023-06-19"
- },
- {
-  "year": "2023-2024",
-  "semester": "1",
-  "updated_at": "2023-11-25",
-  "first_day": "2023-09-11"
- },
- {
-  "year": "2023-2024",
-  "semester": "2",
-  "updated_at": "2023-11-25",
-  "first_day": "2024-02-19"
- }
+    "year": "2023-2024",
+    "semester": "2",
+    "updated_at": "2023-11-29",
+    "first_day": "2024-02-19"
+   }
 ]
